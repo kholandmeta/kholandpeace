@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/peace/static/js/main.4407d1c0.js",
+    "static/media/flag.png": "/peace/static/media/flag.9c4a8d7cd655feeb43cf.png",
+    "static/media/tweet.png": "/peace/static/media/tweet.a04a7b90415f58071f71.png",
+    "index.html": "/peace/index.html",
+    "main.4407d1c0.js.map": "/peace/static/js/main.4407d1c0.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.4407d1c0.js"
+  ]
+}
